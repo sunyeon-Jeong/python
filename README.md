@@ -9,6 +9,7 @@
 |01|hello world|
 |02|data type|
 |03|control statement|
+|04|function|
 
 ### 3️⃣ Contect
 💌 Blog (https://velog.io/@mallang)
