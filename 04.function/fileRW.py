@@ -72,3 +72,4 @@ f.close()
 
 with open("fileAuto", 'w') as f:
     f.write("Life is too short, you need python")
+    
